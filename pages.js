@@ -13,5 +13,3 @@ ghpages.publish(
     else console.log("PUBLISHED");
   }
 );
- npm run build
- npm run custom-deploy
